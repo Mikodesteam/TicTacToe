@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <color name="colorPrimary">#3b7df8</color>
+
+    <color name="colorPrimaryDark">#3b7df8</color>
+    <color name="cotext">#747474</color>
+    <color name="cotextred">#F76D6D</color>
+
+    <color name="colorAccent">#3B7DF8</color>
+
+    <color name="transparent">#00F9F9FA</color>
+
+    <color name="tint">#DC0C2653</color>
+    <color name="orange">#fa7938</color>
+    <color name="tint2">#B9FFFFFF</color>
+    <color name="cardview_shadow_start_color">#23767880</color>
+
+</resources>
